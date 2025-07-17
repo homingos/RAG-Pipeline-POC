@@ -1,0 +1,13 @@
+{
+    "pdf_path": "/Users/flam/Desktop/Rag/mac_rag_poc/Attendance Leave Policy.pdf",
+    "model_path": "/Users/flam/Desktop/Rag/mac_rag_poc/Mistral 7B Instruct v0.gguf",
+    "retrieval_params": {
+      "chunk_size": 1000,
+      "chunk_overlap": 100
+    },
+    "generation_params": {
+      "temperature": 0.0,
+      "max_tokens": 256,
+      "use_strict_prompt": false
+    }
+  }
